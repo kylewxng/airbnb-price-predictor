@@ -1,6 +1,6 @@
 # 🏡 Airbnb Price Prediction – Random Forest Regression
 
-This project was developed as part of **Lab 8: Define and Solve an ML Problem** in the Break Through Tech AI / eCornell Machine Learning Certificate. It follows the full ML lifecycle—from problem definition and data preparation to modeling, evaluation, and hyperparameter tuning—using the **Airbnb NYC Listings** dataset to predict Airbnb listing prices.
+This project was developed as part of **Lab 8: Define and Solve an ML Problem** in the Break Through Tech AI / eCornell Machine Learning Certificate. It follows the full ML lifecycle, from problem definition and data preparation to modeling, evaluation, and hyperparameter tuning using the **Airbnb NYC Listings** dataset to predict Airbnb listing prices.
 
 ---
 
